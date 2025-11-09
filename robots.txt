@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://amiloosing.xyz/sitemap.xml
